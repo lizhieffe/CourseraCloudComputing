@@ -1,0 +1,8 @@
+
+*.d
+
+*.o
+
+Debug/makefile
+
+*.mk
