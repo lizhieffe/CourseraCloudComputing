@@ -3,6 +3,6 @@
 
 *.o
 
-Debug/makefile
+Debug/
 
 *.mk
